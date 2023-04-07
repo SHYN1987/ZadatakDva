@@ -19,7 +19,7 @@ Kako bi izbjegli problem za sprečavanje dvostrukog ažuriranja zaliha u isto vr
 
 Obavjestenje kada stanje zaliha bude manja ili jednaka od 5: 
 - Ovaj problem je rijesen pomocu nodemailer-a
-- U svrhu testiranja ovog problema koristen je testni mail koji kada zaliha padne ispod granice salje u svoj inbox obavijestenje da proizvod sa tim nazivom je pao ispod odredjene granice i obavijesti koliko taj preoivod trenutno ima zaliha 
+- U svrhu testiranja ovog problema koristen je testni mail koji kada zaliha padne ispod granice, kada se neki proizvod azurira, salje u svoj inbox obavijestenje da proizvod sa tim nazivom je pao ispod odredjene granice i obavijesti koliko taj preoivod trenutno ima zaliha 
 
 Da bi pristupili mailu i provjerili obavijestenja: 
 1. email: zadatakt@gmail.com
